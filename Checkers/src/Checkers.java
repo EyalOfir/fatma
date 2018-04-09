@@ -26,7 +26,7 @@ public class Checkers {
 			GameResult();//תוצאת משחק
 		}
 		else {
-			System.out.println("SeeAa you");
+			System.out.println("SeeAAaA you");
 		}				
 
 	}//main
