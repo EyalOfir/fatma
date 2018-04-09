@@ -29,7 +29,7 @@ public class Checkers {
 
 		
 
-			System.out.println("See yyyou");
+			System.out.println("Seett yyyou");
 
 		}				
 
