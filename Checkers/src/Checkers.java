@@ -29,9 +29,13 @@ public class Checkers {
 
 		
 
+<<<<<<< HEAD
 
 			System.out.println("Seeee you");
 
+=======
+			System.out.println("Seett yyyou");
+>>>>>>> branch 'master' of https://github.com/EyalOfir/fatma.git
 
 		}				
 
